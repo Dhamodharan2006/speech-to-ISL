@@ -19,7 +19,7 @@ The system follows these key steps:
 
 🔹 Technologies Used
 Python – Core programming language
-Google Speech Recognition API – Converts speech to text
+Google Speech Recognition – Converts speech to text
 Natural Language Toolkit (NLTK) – Text preprocessing & POS tagging
 Google Translate API – Handles multi-language support
 MoviePy – Merges and plays ISL gesture video clips
